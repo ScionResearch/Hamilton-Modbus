@@ -28,7 +28,7 @@ pip install minimalmodbus pyserial
 2. Run the script:
 
 ```bash
-python ham_modbus_w_debug.py
+python hamilton-modbus.py
 ```
 
 ## Debugging
